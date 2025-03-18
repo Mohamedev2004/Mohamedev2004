@@ -37,6 +37,7 @@ I'm a Moroccan full-stack developer and ui/ux designer building my version of th
 
 # Projects:
 <img src="defluenze.svg" width="100%" alt="Github Project"  />
+<img src="portfolio.png" width="100%" alt="Github Project"  />
 
 <br clear="both">
 
