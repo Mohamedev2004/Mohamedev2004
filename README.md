@@ -1,13 +1,15 @@
-<h2 align="left">Hi 👋! My name is Mohamed BAYA and I'm a passionate FullStack Developer, from Morocco.</h2>
+# Mohamed BAYA
+
+**`(Developer/UI/UX Designer)`**
+
+I'm a Moroccan full-stack developer and ui/ux designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamedev2004&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedev2004&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
 
-###
+
+
+#  Languages and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -27,7 +29,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-###
+# Stats:
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedev2004&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" width="auto" alt="stats graph"  />
+</div>
+
+# Projects:
+<img src="defluenze.svg" width="100%" alt="Github Project"  />
 
 <br clear="both">
 
