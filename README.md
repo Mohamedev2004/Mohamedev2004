@@ -36,7 +36,7 @@ I'm a Moroccan full-stack developer and ui/ux designer building my version of th
 </div>
 
 # Projects:
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img src="defluenze.svg" width="30%" alt="Github Project" />
   <img src="portfolio.svg" width="30%" alt="Github Project" />
   <img src="school.svg" width="30%" alt="Github Project" />
