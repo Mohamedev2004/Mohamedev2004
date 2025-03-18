@@ -36,8 +36,11 @@ I'm a Moroccan full-stack developer and ui/ux designer building my version of th
 </div>
 
 # Projects:
-<img src="defluenze.svg" width="100%" alt="Github Project"  />
-<img src="portfolio.png" width="100%" alt="Github Project"  />
+<div class="flex justify-center gap-4">
+  <img src="defluenze.svg" class="w-1/3" alt="Github Project" />
+  <img src="portfolio.png" class="w-1/3" alt="Github Project" />
+  <img src="school.png" class="w-1/3" alt="Github Project" />
+</div>
 
 <br clear="both">
 
