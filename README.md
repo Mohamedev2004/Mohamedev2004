@@ -29,18 +29,20 @@ I'm a Moroccan full-stack developer and ui/ux designer building my version of th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-# Stats:
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedev2004&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" width="auto" alt="stats graph"  />
-</div>
-
 # Projects:
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="defluenze.svg" width="30%" alt="Github Project" />
   <img src="portfolio.svg" width="30%" alt="Github Project" />
   <img src="school.svg" width="30%" alt="Github Project" />
 </div>
+
+# Stats:
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedev2004&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" width="auto" alt="stats graph"  />
+</div>
+
+
 
 
 <br clear="both">
