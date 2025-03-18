@@ -31,9 +31,9 @@ I'm a Moroccan full-stack developer and ui/ux designer building my version of th
 
 # Projects:
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="defluenze.svg" width="30%" alt="Github Project" />
-  <img src="portfolio.svg" width="30%" alt="Github Project" />
-  <img src="school.svg" width="30%" alt="Github Project" />
+  <img src="defluenze.svg" width="33%" alt="Github Project" />
+  <img src="portfolio.svg" width="33%" alt="Github Project" />
+  <img src="school.svg" width="33%" alt="Github Project" />
 </div>
 
 # Stats:
