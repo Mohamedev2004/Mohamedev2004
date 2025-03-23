@@ -1,6 +1,6 @@
 # Mohamed BAYA
 
-**`(Developer/UI/UX Designer)`**
+**`(Developer / UI/UX Designer)`**
 
 I'm a Moroccan full-stack developer and ui/ux designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
@@ -30,7 +30,7 @@ I'm a Moroccan full-stack developer and ui/ux designer building my version of th
 </div>
 
 # Projects:
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 18px;">
   <img src="defluenze.svg" width="33%" alt="Github Project" />
   <img src="school.svg" width="33%" alt="Github Project" />
   <img src="portfolio.svg" width="33%" alt="Github Project" />
