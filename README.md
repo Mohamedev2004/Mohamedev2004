@@ -1,6 +1,6 @@
 # Mohamed BAYA
 
-**`(Developer / UI/UX Designer)`**
+**`(Full-Stack Developer / UI/UX Designer)`**
 
 I'm a Moroccan full-stack developer and ui/ux designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
